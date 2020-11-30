@@ -1,7 +1,7 @@
 # 3-Bits-Adder-In-Scheme
 
 
-### This Scheme (Lisp) Program Takes in 3-bit binary inputs and adds them using ADD/OR Logic
+### This Scheme (Lisp) Program Takes in 3-bit binary inputs and adds them using AND/OR Logic
 
 ###### This is an example of how to use Lisp/Scheme to do binary operations
 
